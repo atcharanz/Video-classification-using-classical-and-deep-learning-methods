@@ -1,0 +1,18 @@
+Dataset Statistics
+
+Classes:
+- Basketball
+- JumpingJack
+- WalkingWithDog
+
+Total training samples: 303
+Total validation samples: 37
+Total test samples: 40
+
+Feature vector length (classical): 525
+Frame size: 224x224
+Frame sampling: Uniform sampling
+
+Train split ratio: 80%
+Validation split ratio: 10%
+Test split ratio: 10%

@@ -1,0 +1,5 @@
+UCF-101 Dataset Download URL:
+https://www.crcv.ucf.edu/data/UCF101/UCF101.rar
+
+Official Dataset Page:
+https://www.crcv.ucf.edu/data/UCF101.php
