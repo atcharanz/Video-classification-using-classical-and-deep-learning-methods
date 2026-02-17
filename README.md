@@ -18,27 +18,30 @@ The workflow includes:
 ## Project Structure
 
 
+video-classification-project/
+│
 ├── code/
-│ ├── part_a_classical.ipynb
-│ ├── part_b_deep_learning.ipynb
-│ ├── comparative_analysis.ipynb
-│ ├── datasetprepare.py
-│ └── requirements.txt
+│   ├── part_a_classical.ipynb
+│   ├── part_b_deep_learning.ipynb
+│   ├── comparative_analysis.ipynb
+│   ├── datasetprepare.py
+│   └── requirements.txt
 │
 ├── report/
-│ └── Comparative_Report.pdf
+│   └── Comparative_Report.pdf
 │
 ├── dataset_info/
-│ ├── dataset_url.txt
-│ ├── dataset_description.md
-│ └── data_statistics.txt
+│   ├── dataset_url.txt
+│   ├── dataset_description.md
+│   └── data_statistics.txt
 │
 ├── results/
-│ ├── confusion_matrices/
-│ ├── performance_plots/
-│ └── feature_visualizations/
+│   ├── confusion_matrices/
+│   ├── performance_plots/
+│   └── feature_visualizations/
 │
 └── README.md
+
 
 
 
