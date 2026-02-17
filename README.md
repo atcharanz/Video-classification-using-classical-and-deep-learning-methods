@@ -18,7 +18,7 @@ The workflow includes:
 ## Project Structure
 
 ```
-video-classification-project/
+Video-classification-using-classical-and-deep-learning-methods/
 │
 ├── code/
 │   ├── part_a_classical.ipynb
