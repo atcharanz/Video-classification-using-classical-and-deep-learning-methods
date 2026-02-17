@@ -1,10 +1,5 @@
 # Video Classification — Comparative Study
 
-**Student Name:** Charan C  
-**Student ID:** 2024AC05015  
-**Course:** Video Analytics (AIMLCZG531)
-
----
 
 ## Project Overview
 
