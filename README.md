@@ -17,8 +17,7 @@ The workflow includes:
 
 ## Project Structure
 
-Student_2024AC05015_Video_Classification/
-│
+
 ├── code/
 │ ├── part_a_classical.ipynb
 │ ├── part_b_deep_learning.ipynb
@@ -27,7 +26,7 @@ Student_2024AC05015_Video_Classification/
 │ └── requirements.txt
 │
 ├── report/
-│ └── charan_c_2024ac05015_Comparative_Report.pdf
+│ └── Comparative_Report.pdf
 │
 ├── dataset_info/
 │ ├── dataset_url.txt
