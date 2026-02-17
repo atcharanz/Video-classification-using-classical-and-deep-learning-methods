@@ -17,7 +17,7 @@ The workflow includes:
 
 ## Project Structure
 
-
+```
 video-classification-project/
 │
 ├── code/
@@ -41,7 +41,7 @@ video-classification-project/
 │   └── feature_visualizations/
 │
 └── README.md
-
+```
 
 
 
